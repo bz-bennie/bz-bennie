@@ -1,4 +1,4 @@
-## Hi 👋 I'm Ben, I am brand new to writing code but I am exited to learn. I really enjoy homelab-ing and all the great that I have learned so far. check out my first python coding projects <a href="https://github.com/bz-bennie/py-coding-projects">here.</a>
+## Hi 👋 I'm Ben, I am brand new to writing code but I am exited to learn. I really enjoy homelab-ing and all the great that I have figured out so far. Check out my first python coding projects <a href="https://github.com/bz-bennie/py-coding-projects">here.</a>
 
 ## 💻 Tech Stack:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
